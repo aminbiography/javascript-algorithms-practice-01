@@ -1,4 +1,4 @@
-# JavaScript Fundamentals
+# JavaScript Fundamentals  
 
 **Author:** Mohammad Aminul Islam  
 **Resource:** JavaScript Fundamentals  
